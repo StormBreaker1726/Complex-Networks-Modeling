@@ -8,10 +8,12 @@
 #ifndef DEFINES_HPP
 #define DEFINES_HPP
 
+#include <algorithm>
 #include <cmath>
 #include <fstream>
 #include <iomanip>
 #include <iostream>
+#include <utility>
 #include <vector>
 
 #define real float
