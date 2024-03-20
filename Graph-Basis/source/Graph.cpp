@@ -4,6 +4,10 @@ Graph::Graph(std::ifstream& instance)
 {
 }
 
+Graph::Graph()
+{
+}
+
 Graph::~Graph()
 {
 }

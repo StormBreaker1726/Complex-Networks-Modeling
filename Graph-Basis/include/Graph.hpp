@@ -15,6 +15,7 @@ class Graph
 {
 public:
     Graph(std::ifstream& instance);
+    Graph();
     ~Graph();
 
     void operator=(Graph *g2);
